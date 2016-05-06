@@ -15,7 +15,7 @@ Ambiente
 
 Este projeto foi testado e desenvolvido com:
 * Python 3.5.1
-* Django 1.9.4
+* Django 1.9.6
 
 Instalação
 ==========
