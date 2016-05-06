@@ -30,12 +30,11 @@ Copie o arquivo contrib/env-sample para o root do projeto com o nome .env:
 
 Gere uma SECRET_KEY e a coloque no .env:
 
-    SECRET=$(python contrib/gen_secret.py)
+    python contrib/gen_secret.py
 
 Instale as dependências necessárias:
 
     pip install -r requirements/dev.txt
-    pip install -r conda_requirements.txt
 
 Lance o servidor Django:
 
