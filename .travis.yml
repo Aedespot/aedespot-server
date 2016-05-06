@@ -11,4 +11,4 @@ script:
 before_install:
   - pip install codecov
 after_success:
-  - codecov --token=d891a1e40a314b28922a60e31053f918
+  - codecov --token 7cb0c23f-eb53-4a0d-a3be-fab322331674
