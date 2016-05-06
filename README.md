@@ -22,7 +22,7 @@ Instalação
 
 Pegue o código do repositório da seguinte maneira:
 
-    git clone git@github.com:Aedespot/aedespot-server.git
+    git clone https://github.com/Aedespot/aedespot-server.git
 
 Copie o arquivo contrib/env-sample para o root do projeto com o nome .env:
 
