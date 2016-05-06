@@ -6,9 +6,9 @@ AedeSpot
 
 Monitoramento da Dengue.
 
-* O site pode ser acessado [aqui](http://aedespot-server.herokuapp.com/).
-* Os endpoints da API REST estão [aqui](http://aedespot-server.herokuapp.com/api/).
-* A interface de administração está [aqui](http://aedespot.herokuapp.com/admin/).
+* O site pode ser acessado [aqui](http://aedespot.com.br/). (Ainda não está no ar)
+* Os endpoints da API REST estão [aqui](http://aedespot.com.br/api/).
+* A interface de administração está [aqui](http://aedespot.com.br/admin/).
 
 Ambiente
 ========
