@@ -5,15 +5,15 @@ from aedespot.core.models import Report
 
 
 class ReportSerializer(serializers.HyperlinkedModelSerializer):
-	class Meta:
-		model = Report
+    class Meta:
+        model = Report
 
 
 class ReportViewSet(viewsets.ModelViewSet):
-	queryset = Report.objects.all()
-	serializer_class = ReportSerializer
+    queryset = Report.objects.all()
+    serializer_class = ReportSerializer
 
-	http_method_names = ['post']
+    http_method_names = ['post']
 
 
 router = routers.DefaultRouter()
